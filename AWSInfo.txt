@@ -1,0 +1,33 @@
+AMI Image ID
+
+
+ami-cfe4b2b0
+
+
+VPC ID
+
+
+vpc-0ab758c86d9e1fdad
+
+
+Security Group ID
+
+
+"sg-0479eb1b446b659af"
+
+
+Ec2 instance ID
+
+
+"i-01237bcf73c190c73"
+
+
+Public I.P
+
+"34.226.165.88"
+
+
+Allocation Id
+
+
+eipalloc-03efb174ef0d78ff6
